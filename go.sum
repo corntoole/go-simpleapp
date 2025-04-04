@@ -1,0 +1,4 @@
+github.com/corntoole/go-libtest v1.0.0 h1:bv+RgoNcQ7959AIHHBr2tySPVCixiE7SyIznjU736xI=
+github.com/corntoole/go-libtest v1.0.0/go.mod h1:v2c+6V3I+9WkArjmwvQIq560A9RSmC76f/gStR11CfE=
+github.com/corntoole/go-libtest/v2 v2.0.0 h1:OoJhu+MPm/unFSVkXLJdMpPey9K8jDbkrDTikxVr/Ew=
+github.com/corntoole/go-libtest/v2 v2.0.0/go.mod h1:EDCsmMGfKxN784bO/d/gbjtb419X/I87dmcZKv3jAUE=
